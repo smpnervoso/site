@@ -1,0 +1,249 @@
+
+.topo{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    position: static;
+    justify-content: left;
+    margin-right: 25px;
+}
+#caboolture{
+    position: static;
+    margin-left: 26px;
+    margin-top: 22px;
+}
+#frame {
+    position: static;
+    margin-left: 70%;
+}
+.vazio1 {
+    width: 100%;
+    height: 120px;
+}
+.about {
+    width: 100%;
+    height: 80px;
+    position: static;
+    text-align: center;
+}
+#sobreele {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    margin-bottom: 8px;
+}
+#sobreeles{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    margin-top: 0px;
+}
+.vazio2 {
+    width: 100%;
+    height: 110px;
+    background: linear-gradient(165.78deg, rgba(255, 252, 245, 0) 0%, rgba(255, 250, 240, 0.869792) 82.46%, #FFF4DB 98.95%);
+
+}
+.avatar {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+.title {
+    position: static;
+    text-align: center;
+}
+#name {
+    margin-top: 16px;
+    margin-bottom: 2px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+
+}
+#cargo {
+    margin: 2px;
+    margin-bottom: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.descricao {
+    position: static;
+    text-align: center;
+    margin-left: 24px;
+    margin-right: 24px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+.icons {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 76px;
+}
+#sms {
+    display: flex;
+    margin-left: 40px;
+}
+.alternativo {
+    position: static;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16;
+    line-height: 24px;
+}
+.vazio3 {
+    width: 100%;
+    height: 172px;
+}
+.logofinal {
+    width: 225px;
+    height: 47px;
+    margin-bottom: 32px;
+    margin-left: 16px;
+}
+.nav1 {
+    display: flex;
+    justify-content: left;
+    margin-left: 16px;
+    margin-bottom: 8px;
+}
+#servicesicon{
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
+#services {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 16px;
+    margin-bottom: 8px;
+}
+.nav2 {
+    display: flex;
+    justify-content: left;
+    margin-left: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+#sermonsicon{
+    margin-top: 16px;
+    margin-bottom: 8px;
+}
+#sermons {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 16px;
+    margin-bottom: 8px;
+}
+.nav3 {
+    display: flex;
+    justify-content: left;
+    margin-left: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+#eventsicon{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+#events {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 16px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+.nav4 {
+    display: flex;
+    justify-content: left;
+    margin-left: 16px;
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
+#ministersicon{
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+#ministerios {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 16px;
+}
+.vazio4{
+    width: 100%;
+    height: 32px;
+}
+.more{
+    font-family: 'Inter', sans-serif;
+    margin-left: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-bottom: 8px;
+}
+#us {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+}
+.vazio6 {
+    width: 100%;
+    height: 32px;
+}
+.social {
+    margin-top: 8px;
+    font-family: 'Inter', sans-serif;
+    margin-left: 16px;
+}
+#Social {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+}
+.vazio7 {
+    width: 100%;
+    height: 32px;
+}
+.location {
+    display: flex;
+    font-family: 'Inter', sans-serif;
+    margin-left: 16px;
+}
+#locaa {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+}
+.nav8{
+    display: flex;
+    margin-left: 16px;
+
+}
+#point{
+    margin-bottom: 32px;
+}
+#local {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 8px;
+    margin-bottom: 32px;
+    margin-top: 0px;
+}
